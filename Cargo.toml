@@ -1,0 +1,10 @@
+[package]
+name = "cargo-brrr"
+description = "brrr"
+version = "0.0.0"
+authors = ["Ashley Williams <ashley666ashley@gmail.com>"]
+edition = "2018"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/ashleygwilliams/cargo-brrr"
+
+[dependencies]
